@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:
-## Register Number:
-## Name:
+## Register Number:25017266
+## Name:Evangeline Sophiya P M
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,95 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+Smart Crop Advisory for Marginal Farmers (AgriSathi)
+
+A low-cost, AI + IoT + voice-based platform that gives personalized crop advice to marginal farmers.
+
+Key Features:
+
+Smart Crop Choice – suggests profitable, climate-suitable crops.
+
+Affordable Sensors – monitor soil & weather for timely irrigation/fertilizer advice.
+
+Voice & SMS Alerts – simple tips in local language, no smartphone needed.
+
+Micro-Advisory – low-cost fertilizer, water-saving, and pest control methods.
+
+Market & Scheme Linkage – connects to buyers, FPOs, and government benefits.
+
+
+Unique Advantage:
+Practical, hyper-local, literacy-friendly, and resource-sensitive, designed especially for small landholders.
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
 
+1. Data Collection
+
+IoT sensors (soil moisture, pH, temperature, humidity).
+
+Satellite & weather APIs (rainfall, climate forecasts).
+
+Farmer input (land size, crop history, resources).
+
+
+
+2. Data Processing & Analysis
+
+AI/ML models for crop suitability, yield prediction, pest/disease risk.
+
+Decision support system to generate location-specific, resource-sensitive advice.
+
+
+
+3. Advisory Delivery
+
+Smartphone app (for digital farmers).
+
+SMS/IVR (voice calls) in local languages for non-smartphone users.
+
+Offline advisory kiosks in villages for broader access.
+
+
+
+4. Integration Layer
+
+Link to markets & government schemes for input supply, credit, and selling produce.
+
+Farmer-to-farmer knowledge sharing through community groups.
+
+
+
+5. Feedback & Continuous Learning
+
+Farmer feedback loop to improve AI recommendations over time.
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+Feasibility
 
+Technical: Low-cost sensors + AI + SMS/IVR are already proven.
+
+Operational: Easy rollout via FPOs/cooperatives, minimal training needed.
+
+Economic: Affordable kits, support from govt/NGOs, reduces costs & boosts yield.
+
+
+Viability
+
+Scalable across regions with local data/languages.
+
+Sustainable through higher income & lower input cost.
+
+Adoption likely high since it’s simple, low-cost, and farmer-friendly.
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+Higher Yields → 15–20% increase with timely, precise advice.
 
+Lower Costs → Saves 10–15% on water, fertilizer, and pesticides.
+
+Risk Reduction → Early alerts for weather, pests, and diseases.
+
+Better Market Access → Direct link to buyers, FPOs, and schemes.
+
+Farmer Empowerment → Simple advice in local language improves decision-making.
+
+Sustainability → Promotes resource-efficient and climate-resilient farming.
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+https://www.jetir.org/papers/JETIR2505463.pdf
