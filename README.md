@@ -102,6 +102,8 @@ Farmer-to-farmer knowledge sharing through community groups.
 5. Feedback & Continuous Learning
 
 Farmer feedback loop to improve AI recommendations over time.
+<img width="1263" height="689" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/43f291ea-7f05-4531-a9c7-d18008e1ed96" />
+
 ## Feasibility and Viability
 Feasibility
 
