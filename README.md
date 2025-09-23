@@ -63,46 +63,65 @@ Practical, hyper-local, literacy-friendly, and resource-sensitive, designed espe
 
 ## Technical Approach
 
-1. Data Collection
 
-IoT sensors (soil moisture, pH, temperature, humidity).
+1. Programming Languages
 
-Satellite & weather APIs (rainfall, climate forecasts).
+Python → AI/ML models, backend services, data analytics.
 
-Farmer input (land size, crop history, resources).
+Java / Kotlin → Android mobile app development.
+
+JavaScript (React/Node.js) → Web dashboard & APIs.
+
+2. Frameworks & Tools
+
+TensorFlow / PyTorch / Scikit-learn → AI/ML for crop recommendation, yield prediction, pest/disease alerts.
+
+Flask / FastAPI / Django → Backend API for advisory services.
+
+React Native / Flutter → Cross-platform mobile apps.
+
+Twilio / KooKoo / Exotel → SMS and IVR (voice call) advisory delivery.
+
+3. Databases & Storage
+
+PostgreSQL / MySQL → Structured farmer data & crop records.
+
+MongoDB → Unstructured data (images, weather logs).
+
+Cloud Storage (AWS S3 / Google Cloud Storage) → Sensor and satellite datasets.
+
+4. Hardware & IoT Devices
+
+Low-cost sensors: Soil moisture, pH, temperature, humidity.
+
+Microcontrollers: Arduino, ESP32, or Raspberry Pi for sensor integration.
+
+Mobile Devices: Basic phones (for SMS/IVR) and smartphones (for apps).
 
 
+5. Integration & External Services
 
-2. Data Processing & Analysis
+Weather APIs: OpenWeather, IBM Weather Company, or government agri-weather feeds.
 
-AI/ML models for crop suitability, yield prediction, pest/disease risk.
+GIS/Satellite Data: Google Earth Engine, ISRO Bhuvan, Sentinel satellite imagery.
 
-Decision support system to generate location-specific, resource-sensitive advice.
+Market APIs: eNAM (India), AgriMarket platforms.
 
+Process Flow (Step-by-Step)
 
+Collect farm & weather data.
 
-3. Advisory Delivery
+Process with AI/ML models.
 
-Smartphone app (for digital farmers).
+Generate crop & farm advisory.
 
-SMS/IVR (voice calls) in local languages for non-smartphone users.
+Deliver advice via app/SMS/IVR.
 
-Offline advisory kiosks in villages for broader access.
+Connect to market & schemes.
 
+Collect feedback → refine system.
+<img width="768" height="761" alt="smart_crop_mindmap" src="https://github.com/user-attachments/assets/cf2da877-d8d0-4fbe-9cf4-8b1a9057907d" />
 
-
-4. Integration Layer
-
-Link to markets & government schemes for input supply, credit, and selling produce.
-
-Farmer-to-farmer knowledge sharing through community groups.
-
-
-
-5. Feedback & Continuous Learning
-
-Farmer feedback loop to improve AI recommendations over time.
-<img width="1263" height="689" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/43f291ea-7f05-4531-a9c7-d18008e1ed96" />
 
 ## Feasibility and Viability
 Feasibility
