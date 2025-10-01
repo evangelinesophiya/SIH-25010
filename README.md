@@ -61,6 +61,9 @@ Market & Scheme Linkage – connects to buyers, FPOs, and government benefits.
 Unique Advantage:
 Practical, hyper-local, literacy-friendly, and resource-sensitive, designed especially for small landholders.
 
+<img width="678" height="323" alt="Screenshot 2025-10-01 090904" src="https://github.com/user-attachments/assets/7c014a8a-14e2-47af-a490-61f3f57788a3" />
+
+
 ## Technical Approach
 
 
