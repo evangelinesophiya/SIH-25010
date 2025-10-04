@@ -123,7 +123,7 @@ Deliver advice via app/SMS/IVR.
 Connect to market & schemes.
 
 Collect feedback → refine system.
-![Uploading smart crop image.png…]()
+"C:\Users\acer\Downloads\smart_crop_mindmap.png"
 
 
 ## Feasibility and Viability
