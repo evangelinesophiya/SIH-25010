@@ -61,7 +61,8 @@ Market & Scheme Linkage – connects to buyers, FPOs, and government benefits.
 Unique Advantage:
 Practical, hyper-local, literacy-friendly, and resource-sensitive, designed especially for small landholders.
 
-<img width="678" height="323" alt="Screenshot 2025-10-01 090904" src="https://github.com/user-attachments/assets/7c014a8a-14e2-47af-a490-61f3f57788a3" />
+<img width="1536" height="1024" alt="smart crop image" src="https://github.com/user-attachments/assets/a7d1c6ab-31ce-4667-8a0a-a56367860902" />
+
 
 
 ## Technical Approach
@@ -123,7 +124,8 @@ Deliver advice via app/SMS/IVR.
 Connect to market & schemes.
 
 Collect feedback → refine system.
-"C:\Users\acer\Downloads\smart_crop_mindmap.png"
+<img width="768" height="761" alt="smart_crop_mindmap" src="https://github.com/user-attachments/assets/9fecd546-9b7a-46a5-82ff-af073266658e" />
+
 
 
 ## Feasibility and Viability
