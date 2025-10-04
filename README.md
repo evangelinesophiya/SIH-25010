@@ -123,7 +123,7 @@ Deliver advice via app/SMS/IVR.
 Connect to market & schemes.
 
 Collect feedback → refine system.
-<img width="768" height="761" alt="smart_crop_mindmap" src="https://github.com/user-attachments/assets/cf2da877-d8d0-4fbe-9cf4-8b1a9057907d" />
+![Uploading smart crop image.png…]()
 
 
 ## Feasibility and Viability
